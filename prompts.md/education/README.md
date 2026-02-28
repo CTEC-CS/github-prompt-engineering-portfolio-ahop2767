@@ -1,1 +1,13 @@
+Design Justification
 
+1. Did you use a specific framework? If yes, which one and why is it appropriate for this use case?
+[The frame work I used was RTF, I used RTF because it was simple and this prompt needed to be simple. ]
+
+2. Why did you structure your prompt this way? What specific elements did you include?
+[I included a test type because there are multiple different types of test that we take nowadays that sometimes each test needs a different study method. I specified adding examples because some people learn better when they see something in practice instead of just reading the practice.]
+
+3. How does your prompt guide the AI effectively?
+[What makes my prompt reusable is that it is vague enough that you can supplement what you want specifically to the prompt but also specific in what you want the AI to do to get the correct output.]
+
+4. What constraints or requirements did you add and why?
+[Some requirements I added was that it needed to give examples of the study method so it wouldn’t just generate random examples. I kept my tone in the prompt neutral because that seemed to be the most appropriate for the prompt.]
