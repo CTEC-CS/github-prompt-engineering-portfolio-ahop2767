@@ -7,20 +7,6 @@ Purpose
 Your Prompt
 [I am creating an OC whose name is [OC_NAME] and they have [TYPE_OF_SCARS]. Create a story based on the scars.]
 
-Design Justification
-
-1. Did you use a specific framework? If yes, which one and why is it appropriate for this use case?
-[The framework I used was CARE because it needed to be very specific. With this prompt being specific and direct worked out great.]
-
-2. Why did you structure your prompt this way? What specific elements did you include?
-[I included all of the placeholders for the characters' looks because you need that in order to create a good backstory. Clear prompts usually work best.]
-
-3. How does your prompt guide the AI effectively?
-[My prompt is clear and reusable because it is very flexible for adjustments. The more room the prompt has for flexibility the better off you will be for results.]
-
-4. What constraints or requirements did you add and why?
-[Requirements I put is what the character should look like. Without the character's looks you won’t be able to get the back story you want for your character.]
-
 Final Reflection
 [My final prompt works well because it can easily be changed to your specifications. It is reusable because of the vague but specific placeholders.]
 
